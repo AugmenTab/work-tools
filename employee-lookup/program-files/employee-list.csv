@@ -1,0 +1,91 @@
+first,last,extension,dept,title,email,spanish
+Darlene,Ali,ext. 68294,Accounting,Accountant,dali,false
+Teddie,Andrade,ext. 97015,Accounting,Accountant,tandrade,false
+Gia,Bains,ext. 12772,Claims,Adjuster,gbains,true
+Sahra,Bird,ext. 68784,Operations,Executive Assistant,sbird,true
+Leticia,Brett,ext. 52647,Accounting,Accountant,lbrett,false
+Corey,Browning,ext. 66331,Payments,Cashier,cbrowning,false
+Sinead,Bryan,ext. 53576,Marketing,Manager,sbryan,false
+Pooja,Cain,ext. 36293,Risk Management,Business Risk Manager,pcain,false
+Annie,Cash,ext. 98535,Claims,Adjuster,acash,false
+Frida,Chan,ext. 38419,Customer Service,Customer Service Representative,fchan,false
+Kaira,Cole,ext. 41478,Administration,Quality Assurance Specialist,kcole,false
+Sol,Compton,ext. 34195,Customer Service,Customer Service Representative,scompton,false
+Mehmet,Connor,ext. 65876,Claims,Manager,mconnor,false
+Abel,Cooley,ext. 64786,Customer Service,Customer Service Representative,acooley,false
+Elias,Corbett,ext. 26187,Claims,Manager,ecorbett,false
+Tyrese,Dejesus,ext. 15714,Payments,Cashier,tdejesus,false
+Chanelle,Donovan,ext. 82004,Customer Service,Customer Service Representative,cdonovan,false
+Ema,Duffy,ext. 52297,Claims,Adjuster,eduffy,false
+Patricia,Duran,ext. 60168,Claims,Adjuster,pduran,false
+Rex,Espinoza,ext. 52457,Claims,Adjuster,respinoza,false
+Nansi,Farrington,ext. 28440,Claims,Adjuster,nfarrington,false
+Emir,Farrow,ext. 50086,Customer Service,Customer Service Representative,efarrow,false
+Anish,Findlay,ext. 13522,Payments,Cashier,afindlay,true
+Nyah,Franco,ext. 31905,Claims,Adjuster,nfranco,true
+Luca,Gardner,ext. 23187,Human Resources,Assistant,lgardner,true
+Aleesha,Gordon,ext. 74364,Operations,Chief Financial Officer,agordon,false
+Dana,Gough,ext. 78115,Sales,Account Manager,dgough,false
+Ollie,Griffin,ext. 92266,Administration,Rate Specialist,ogriffin,false
+Jesus,Guerra,ext. 67879,Risk Management,Programmer,jguerra,false
+Marcelina,Guzman,ext. 95772,Payments,Cashier,mguzman,false
+Tamzin,Haines,ext. 48932,Operations,Chief Executive Officer,thaines,false
+Katrina,Hardy,ext. 18610,Customer Service,Supervisor,khardy,false
+Mildred,Hebert,ext. 48830,Claims,Adjuster,mhebert,false
+Marwa,Hobbs,ext. 89285,Human Resources,Director,mhobbs,false
+Tiffany,Holt,ext. 33396,Claims,Director,tholt,false
+Wilf,Hume,ext. 73985,Compliance,Compliance Specialist,whume,false
+Nazia,Kenny,ext. 57930,Customer Service,Manager,nkenny,true
+Lorenzo,Kent,ext. 12835,Sales,Account Manager,lkent,false
+Dionne,Kim,ext. 21515,Claims,Adjuster,dkim,false
+Asiya,Knight,ext. 14122,Sales,Account Manager,aknight,false
+Mikaeel,Knights,ext. 55043,Accounting,Accountant,mknights,false
+Kristin,Krueger,ext. 17553,Accounting,Accountant,kkrueger,true
+Yuvraj,Lancaster,ext. 52878,Accounting,Director,ylancaster,false
+Rufus,Liu,ext. 47800,Accounting,Accountant,rliu,false
+Tre,Mackay,ext. 35207,Payments,Manager,tmackay,true
+Luka,Major,ext. 14827,Accounting,Accountant,lmajor,false
+Scott,McCarty,ext. 17706,Payments,Cashier,smccarty,false
+David,McConnell,ext. 13078,Customer Service,Customer Service Representative,dmcconnell,true
+Kyan,McKenna,ext. 40142,Administration,Rate Specialist,kmckenna,false
+Kerry,McPhee,ext. 57715,Customer Service,Customer Service Representative,kmcphee,true
+Camron,Mejia,ext. 78140,Claims,Adjuster,cmeija,false
+Parker,Middleton,ext. 46226,Claims,Adjuster,pmiddleton,false
+Dewey,Monaghan,ext. 21339,Claims,Adjuster,dmonaghan,false
+Alma,Mullins,ext. 54637,Sales,Account Manager,amullins,false
+Ksawery,Munro,ext. 60438,Customer Service,Customer Service Representative,kmunro,false
+Samirah,Neale,ext. 36783,Customer Service,Supervisor,sneale,true
+Liyah,Neale,ext. 41951,Claims,Adjuster,lneale,false
+Walter,Neill,ext. 57176,Claims,Adjuster,wneill,false
+Zakariah,North,ext. 30997,Claims,Adjuster,znorth,false
+Beauden,Olson,ext. 37047,Payments,Cashier,bolson,false
+Christie,Peck,ext. 30478,Claims,Adjuster,cpeck,false
+Ruairidh,Pitts,ext. 73427,Claims,Adjuster,rpitts,false
+Skylar,Potter,ext. 87400,Accounting,Accountant,spotter,false
+Fiza,Quinn,ext. 40987,Customer Service,Customer Service Representative,fquinn,false
+Tyra,Ramsey,ext. 90995,Claims,Adjuster,tramsey,false
+Jarrod,Ray,ext. 53377,Claims,Adjuster,jray,false
+Ada,Redman,ext. 71848,Compliance,Compliance Specialist,aredman,true
+Benjamin,Reilly,ext. 96847,Customer Service,Customer Service Representative,breilly,false
+Blane,Reyna,ext. 75723,Accounting,Reinsurance Manager,breyna,false
+Bethany,Rigby,ext. 27016,Claims,Adjuster,brigby,false
+Reeva,Riggs,ext. 19527,Administration,VP of Administration,rriggs,false
+Yousaf,Riley,ext. 41833,Customer Service,Customer Service Representative,yriley,false
+Fatema,Rollins,ext. 18122,Customer Service,Customer Service Representative,frollins,false
+Ruby,Rosales,ext. 88906,Claims,Adjuster,rrosales,false
+Nathan,Rosas,ext. 47243,Compliance,Compliance Specialist,nrosas,false
+Hermione,Schaefer,ext. 56106,Accounting,Accountant,hschaefer,false
+Larissa,Schwartz,ext. 80197,Risk Management,Actuarial Analyst,lschwartz,true
+Javan,Smart,ext. 57689,Customer Service,Customer Service Representative,jsmart,true
+Patrick,Snow,ext. 15225,Risk Management,SQL Reporting Analyst,psnow,false
+Junayd,Stanton,ext. 75597,Administration,Manager,jstanton,false
+Wyatt,Stone,ext. 47107,Claims,Adjuster,wstone,false
+Lexie,Todd,ext. 39940,Claims,Adjuster,ltodd,false
+Kirsty,Underwood,ext. 54917,Operations,General Manager,kunderwood,true
+Liberty,Velasquez,ext. 55454,Claims,Adjuster,lvelasquez,false
+Aurora,Villa,ext. 26143,Customer Service,Customer Service Representative,avilla,false
+Raife,Ware,ext. 77744,Claims,Adjuster,rware,false
+Andreea,Wheatley,ext. 40167,Sales,Director,awheatley,false
+Gordon,Whitley,ext. 73817,Accounting,Accountant,gwhitley,false
+Mahamed,Wilson,ext. 71056,Payments,Supervisor,mwilson,false
+Stevie,Zavala,ext. 68618,Sales,Account Manager,szavala,false
