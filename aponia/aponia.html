@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Aponia</title>
+        <link rel="stylesheet" href="program-files/style.css">
+    </head>
+    <body>
+        <div id="container">
+            <div class="wrapper">
+                <div class="text-logo"><h1>άπονία v1.1.1</h1></div>
+                <div class="banner nav-bar">
+                    <a href="apocrypha.html" class="navlink current-page"><h1>Aponia</h1></a>
+                </div>
+            </div>
+            <main class="content">
+                <aside class="description">
+                    <h2>How to Use This Tool</h2>
+                    <hr>
+                    <p>Click on the department you wish to see notes for.</p>
+                    <p>Enter the code of the shop you wish to search into the text field (the code for this demo is <strong>P0574</strong>).</p>
+                    <p>No need to worry about capitalizing - the tool is case-insensitive.</p>
+                    <p>Once the tool has found an exact match, it will display automatically.</p>
+                    <p>The tool will automatically reset after five minutes of inactivity.</p>
+                </aside>
+                <div class="form">
+                    <div class="search-field">
+                        <form><input type="text" class="search" placeholder="P-Code"></form>
+                    </div>
+                    <div class="btns" id="depts">
+                        <button class="btn" id="claims" value="claims">Claims</button>
+                        <button class="btn" id="custsrv" value="custsrv">CS</button>
+                        <button class="btn" id="payments" value="payments">Payments</button>
+                    </div>
+                    <div class="shop-data">
+                        <div class="fields">
+                            <div>Shop Name: </div>
+                            <div>Phone Number: </div>
+                            <br>
+                            <div>Address: </div>
+                            <br>
+                            <br>
+                            <div><strong>Pay Method: </strong></div>
+                            <div class="indent">Fax: </div>
+                            <div class="indent">Email: </div>
+                            <br>
+                            <div>Rep: </div>
+                            <div>Contact: </div>
+                            <br>
+                            <br>
+                            <div><strong>Notes:</strong></div>
+                            <br>
+                        </div>
+                        <div class="data">
+                            <div id="name"></div>
+                            <div id="phone"></div>
+                            <br>
+                            <div id="address1"></div>
+                            <div id="address2"></div>
+                            <br>
+                            <div id="paymethod"></div>
+                            <div id="fax"></div>
+                            <div id="email"></div>
+                            <br>
+                            <div id="rep"></div>
+                            <div id="contact"></div>
+                            <br>
+                            <div id="notes"></div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+        <footer>
+            <div id="footer">
+                <p class="navlink">Aponia &copy; 2018-2020 Tyler Baum.</p>
+            </div>
+        </footer>
+
+        
+        <script src="program-files/shoplist.js"></script>
+        <script src="program-files/aponia-script.js"></script>
+    </body>
+</html>
