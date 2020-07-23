@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Glass</title>
+        <link rel="stylesheet" href="program-files/style.css">
+    </head>
+    <body>
+        <div id="container">
+            <div class="wrapper">
+                <div class="text-logo"><h1>άπονία v1.1.1</h1></div>
+                <div class="banner nav-bar">
+                    <a href="glass.html" class="navlink current-page"><h1>Glass</h1></a>
+                </div>
+            </div>
+            <main class="content_silkroad">
+                <aside class="description">
+                    <h2>How to Use This Tool</h2>
+                    <hr>
+                    <p>Enter the address where the glass replacement will take place into the search field.</p>
+                    <p>Click the Search button or hit the Enter key.</p>
+                    <p>The map will automatically display the shop closest to the requested address, with a preference for the shop with the lowest mileage fee, and plot the fastest route between the shop and the customer's location.</p>
+                    <p>The shop's contact information will also display to the right of the map, as well as the distance the shop will have to drive and the total mileage fee.</p>
+                </aside>
+                <div class="form">
+                    <span class="search-field">
+                        <input type="text" class="search" id="search" placeholder="Address">
+                <button class="button" id="searchButton">Search</button>
+                    </span>
+                <div id="map"></div>
+                </div>
+                <div id="glass-shop-data"></div>
+            </main>
+        </div>
+        <footer>
+            <div id="footer">
+                <p class="navlink">Glass &copy; 2018-2020 Tyler Baum.</p>
+            </div>
+        </footer>
+
+        <script src="https://maps.googleapis.com/maps/api/js?key=nokey&callback=initMap" async defer></script>
+        <script src="program-files/glassShops.js"></script>
+        <script src="program-files/glass-script.js"></script>
+    </body>
+</html>
